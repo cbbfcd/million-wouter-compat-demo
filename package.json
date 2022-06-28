@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --force",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "million": "^1.11.2",
+    "wouter": "2.8.0-alpha.2"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9"
+  }
+}
